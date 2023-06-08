@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](https://bhushan-baviskar.github.io/Qr-code-component/)
+See live Page Here - https://bhushan-baviskar.github.io/Qr-code-component/
 
 ## Welcome! 👋
 
